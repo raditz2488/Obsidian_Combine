@@ -31,7 +31,9 @@ The process chain can optionally have zero or more **[[Operators]]** in between 
 The **Operator** is a piece in the chain that modifies the event it receives from the piece behind it.
 It then sends this modified event to the piece ahead of it in the chain.
 
+A [[Subscription]] is created when a [[Subscriber]] latches itself to the end of a subscription chain.
 ## How is it different then async/await?
 Combine provides a rich set of operators.
 They make a lot of complex common scenarios with asynchronous programming, easy to address.
 #Combine #EventDrivenProgramming #Publisher #Subscriber #Operators
+#Subscription
