@@ -4,131 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "7daf7f2dd50841b8",
+        "id": "27b09624ea78f7ea",
         "type": "tabs",
         "children": [
           {
-            "id": "a8b240159b2f5b22",
+            "id": "e374dfc25cac9980",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Publisher.sink(receiveValue).md",
+                "file": "PassThroughSubject.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1e2de9a98de8b59c",
+            "id": "6e972dae32e93ac2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Publisher.sink(receiveCompletion, receiveValue).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c5ad865a17666ed3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Just.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "71e9e0ef0939c1d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "@Published.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a96ff5ba88c2e9a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Publisher.assign(to, on).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e1a64ad40e1ca2b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Publisher.assign(to).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c2b47e104a0b10b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Demand.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d31b29b2ca96e51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unlimited demand.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5106735a7b958f7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AnyCancellable.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2225b80502f284ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cancellable.md",
+                "file": "Subject.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cancellable.md",
+                "file": "Subject.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cancellable.md",
+                "file": "Subject.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cancellable.md"
+                "file": "Subject.md"
               }
             }
           }
@@ -255,22 +159,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2225b80502f284ec",
+  "active": "6e972dae32e93ac2",
   "lastOpenFiles": [
-    "AnyCancellable.md",
+    "Publishers out of the box.md",
+    "CurrentValueSubject.md",
+    "PassThroughSubject.md",
+    "Subject.md",
+    "Publisher.md",
+    "Just.md",
+    "Future.md",
+    "Completion.md",
+    "Establishing a subscription.md",
+    "Combine.md",
     "Cancellable.md",
+    "AnyCancellable.md",
     "Unlimited demand.md",
     "Demand.md",
     "Publisher.assign(to).md",
     "Publisher.assign(to, on).md",
     "@Published.md",
-    "Just.md",
     "Publisher.sink(receiveCompletion, receiveValue).md",
     "Publisher.sink(receiveValue).md",
     "Subscription.md",
-    "Combine.md",
     "Subscriber.md",
-    "Operators.md",
-    "Publisher.md"
+    "Operators.md"
   ]
 }

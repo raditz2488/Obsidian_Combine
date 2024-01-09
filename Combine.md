@@ -35,5 +35,8 @@ A [[Subscription]] is created when a [[Subscriber]] latches itself to the end of
 ## How is it different then async/await?
 Combine provides a rich set of operators.
 They make a lot of complex common scenarios with asynchronous programming, easy to address.
+
+## How does it work?
+For a crisp understanding please read [[Establishing a subscription]].
 #Combine #EventDrivenProgramming #Publisher #Subscriber #Operators
 #Subscription
